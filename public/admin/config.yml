@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: emakyapi/emak-website
+  repo: emakyapi/emakyapi-website
   branch: main
   base_url: https://sveltia-cms-auth.emak-yapi-mobil.workers.dev
 
