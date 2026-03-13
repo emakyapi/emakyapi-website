@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: yemozer/emak-website
+  repo: emakyapi/emak-website
   branch: main
-  base_url: https://sveltia-cms-auth.yunusozer.workers.dev
+  base_url: https://sveltia-cms-auth.emak-yapi-mobil.workers.dev
 
 locale: tr
 
