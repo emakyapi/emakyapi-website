@@ -1,0 +1,12 @@
+page_heading: Banka Hesapları
+page_description: Emak Yapı resmi banka hesap bilgileri.
+account_holder: "Emak Yapı Malzemeleri Taahhüt İnşaat Nakliye San. Tic. Ltd. Şti."
+accounts:
+  - bank: "Ziraat Bankası"
+    iban: "TR90 0001 0019 3774 9275 8550 13"
+  - bank: "İş Bankası"
+    iban: "TR40 0006 4000 0014 2006 2668 26"
+  - bank: "Garanti BBVA"
+    iban: "TR06 0006 2000 7110 0006 2937 16"
+  - bank: "Yapı Kredi"
+    iban: "TR18 0006 7010 0000 0044 9631 54"
