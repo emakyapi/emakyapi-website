@@ -1,7 +1,20 @@
 nav_items:
-  - label: Hakkımızda
+  - label: Kurumsal
     href: /hakkimizda
     external: false
+    children:
+      - label: Hakkımızda
+        href: /hakkimizda
+        external: false
+      - label: Şirket Bilgileri
+        href: /sirket-bilgileri
+        external: false
+      - label: Şubeler
+        href: /subeler
+        external: false
+      - label: Banka Hesapları
+        href: /banka-hesaplari
+        external: false
   - label: Dokümanlar
     href: /dokumanlar
     external: false
@@ -18,9 +31,9 @@ nav_items:
     href: /iletisim
     external: false
   - external: true
-    href: https://odeme.emakyapi.com.tr/
     label: Ödeme
+    href: https://odeme.emakyapi.com.tr/signin
 b2b_button_text: B2B Girişi
-b2b_button_link: https://b2b.emakyapi.com.tr/
+b2b_button_link: https://emakyapi.revleno.com
 cta_button_text: Teklif Al
 cta_button_link: /iletisim
