@@ -6,7 +6,7 @@ branches:
     type: Depo
     address: Ostim OSB Mah. 1569. Sk. No:31 Yenimahalle / ANKARA
     phone: ""
-    image: https://emakyapi.com.tr/images/about/emak-yapi-full.jpg
+    image: /images/branches/emak-yapi-full.jpg
     google_maps_embed: https://www.google.com/maps?q=Ostim+OSB+1569+Sokak+No+31+Yenimahalle+Ankara&output=embed
     maps_link: https://maps.google.com/?q=Ostim+OSB+1569+Sokak+31+Yenimahalle+Ankara
   - name: Atisan Şube
