@@ -20,7 +20,7 @@
             {{ acc.bank }}
           </div>
           <div class="flex-1 flex items-center justify-between gap-3 min-w-0">
-            <div class="text-sm font-mono text-gray-900 break-all">{{ acc.iban }}</div>
+            <div class="text-sm tracking-wider text-gray-900 break-all">{{ acc.iban }}</div>
             <button
               type="button"
               @click="copy(acc.iban, idx)"
